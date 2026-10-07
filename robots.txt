@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ysabri742-art.github.io/rafeeq/sitemap.xml
