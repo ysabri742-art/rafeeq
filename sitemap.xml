@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ysabri742-art.github.io/rafeeq/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ysabri742-art.github.io/rafeeq/assets/rafiq-logo.png</image:loc>
+      <image:title>رفيق السير لتأجير السيارات في السعودية | تأجير سيارات لكباتن اوبر</image:title>
+      <image:caption>منصة رفيق السير لتأجير السيارات للكباتن ومقدمي خدمات النقل</image:caption>
+    </image:image>
   </url>
 </urlset>
